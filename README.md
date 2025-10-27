@@ -1,5 +1,9 @@
-Men: Sadulayev Musobek Otabek o'g'li (GAMER HACK) nomi bilan mashhurman
-Yoshim: 13
+<h1>
+  Men: Sadulayev Musobek Otabek o'g'li (GAMER HACK) nomi bilan mashhurman
+</h1>
+<h3>
+  Yoshim: 13
+</h3>
 Instagram va youtube ijtimoiy tarmoqida blog yurutaman
 Salom men hozirda SMM va Marketing orqali daromad qilib kelyapman 
 Men asosan Pythondagi Aiogram va telebot kutubxonalarida telegram botlarni tuzaman
