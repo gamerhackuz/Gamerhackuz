@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=240&section=header&text=GAMER%20HACK&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Sadulayev%20Musobek%20Otabek%20o%27g%27li&descAlignY=58&descSize=22&descColor=39ff14"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&width=850&height=100&lines=%3E+Telegram+Bot+Developer+%7C+Aiogram+%26+Telebot;%3E+Blockchain+Creator+%7C+O'z+Kripto-valyutam;%3E+SMM+%26+Marketing+%7C+13+Yoshda+Kelajak+Yaratish" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&width=850&height=100&lines=%3E+Telegram+Bot+Developer+%7C+Aiogram+%26+Telebot;%3E+Blockchain+Creator+%7C+O%27z+Kripto-valyutam;%3E+SMM+%26+Marketing+%7C+13+Yoshda+Kelajak+Yaratish" />
 </a>
 
 <br/>
@@ -12,7 +12,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/AGE-13-00ff41?style=for-the-badge&labelColor=000000"/>
 &nbsp;
-<img src="https://img.shields.io/badge/FROM-UZBEKISTAN-00ff41?style=for-the-badge&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iOCIgZmlsbD0iIzFFQjlGRiIvPjxyZWN0IHk9IjgiIHdpZHRoPSIyNCIgaGVpZ2h0PSI4IiBmaWxsPSIjRkZGIi8+PHJlY3QgeT0iMTYiIHdpZHRoPSIyNCIgaGVpZ2h0PSI4IiBmaWxsPSIjMUVCOUZGIi8+PC9zdmc+"/>
+<img src="https://img.shields.io/badge/FROM-UZBEKISTAN-00ff41?style=for-the-badge&labelColor=000000"/>
 &nbsp;
 <img src="https://img.shields.io/badge/PROJECTS-4-39ff14?style=for-the-badge&labelColor=000000"/>
 
@@ -21,15 +21,13 @@
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=800&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+SHAXSIY+MA'LUMOT+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=800&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+SHAXSIY+MA%27LUMOT+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=750&height=280&multiline=true&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91+%F0%9F%A7%91+ISM+++++++++%3A+Sadulayev+Musobek+Otabek+o'g'li++++++++++++%E2%95%91;%E2%95%91+%F0%9F%8E%AE+TAXALLUS++++%3A+GAMER+HACK+++++++++++++++++++++++++++++++++%E2%95%91;%E2%95%91+%F0%9F%8E%82+YOSH+++++++++%3A+13+yosh+++++++++++++++++++++++++++++++++++%E2%95%91;%E2%95%91+%F0%9F%93%8D+JOYLASHUV++%3A+O'zbekiston+%F0%9F%87%BA%F0%9F%87%BF++++++++++++++++++++++++++++++%E2%95%91;%E2%95%91+%F0%9F%8E%93+TA'LIM+++++%3A+Muhammad+Al-Xorazimiy+vorislari++++++++++++%E2%95%91;%E2%95%91+%F0%9F%92%BC+DAROMAD++++%3A+SMM+%26+Marketing+++++++++++++++++++++++++++++%E2%95%91;%E2%95%91+%F0%9F%92%BB+IXTISOSLIK+%3A+Telegram+Botlar+—+Aiogram+%26+Telebot++++++++%E2%95%91;%E2%95%91+%F0%9F%8E%AF+MAQSAD+++++%3A+O'z+Blockchain+%2B+Kripto-valyuta+chiqarish++%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=750&height=280&multiline=true&lines=%E2%95%94%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%97;%E2%95%91+%F0%9F%A7%91+ISM+++++++++%3A+Sadulayev+Musobek+Otabek+o%27g%27li++++++++++%E2%95%91;%E2%95%91+%F0%9F%8E%AE+TAXALLUS++++%3A+GAMER+HACK++++++++++++++++++++++++++++++++%E2%95%91;%E2%95%91+%F0%9F%8E%82+YOSH+++++++++%3A+13+yosh+++++++++++++++++++++++++++++++++%E2%95%91;%E2%95%91+%F0%9F%93%8D+JOYLASHUV++%3A+O%27zbekiston+%F0%9F%87%BA%F0%9F%87%BF+++++++++++++++++++++++++++++%E2%95%91;%E2%95%91+%F0%9F%8E%93+TA%27LIM+++++%3A+Muhammad+Al-Xorazimiy+vorislari++++++++++%E2%95%91;%E2%95%91+%F0%9F%92%BC+DAROMAD++++%3A+SMM+%26+Marketing+++++++++++++++++++++++++++%E2%95%91;%E2%95%91+%F0%9F%92%BB+IXTISOSLIK+%3A+Telegram+Botlar+%E2%80%94+Aiogram+%26+Telebot++++++%E2%95%91;%E2%95%91+%F0%9F%8E%AF+MAQSAD+++++%3A+O%27z+Blockchain+%2B+Kripto-valyuta+chiqarish+%E2%95%91;%E2%95%9A%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%9D"/>
 </div>
 
 <br/>
@@ -37,14 +35,14 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=800&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+KO'NIKMALAR+GRAFIGI+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=800&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+KO%27NIKMALAR+GRAFIGI+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-```
+```text
   Python (Aiogram/Telebot)  ████████████████████░  95%
   Blockchain Development    ██████████████████░░░  90%
   JavaScript & Web3         ████████████████░░░░░  80%
@@ -69,36 +67,36 @@
   <tr>
     <td align="center" width="250">
       <img src="https://img.icons8.com/3d-fluency/108/artificial-intelligence.png" width="108" alt="ML Creator"/><br/>
-      <b style="font-size: 16px;">🤖 Machine Learning Creator</b><br/>
+      <b>🤖 Machine Learning Creator</b><br/>
       <sub>Rasmlar yaratish uchun AI</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00ff41"/>
       <img src="https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&logoColor=00ff41"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=for-the-badge&labelColor=000"/>
     </td>
     <td align="center" width="250">
       <img src="https://img.icons8.com/3d-fluency/108/galaxy.png" width="108" alt="Galaxy Coin"/><br/>
-      <b style="font-size: 16px;">🌌 Neural Linker Galaxy Coin</b><br/>
+      <b>🌌 Neural Linker Galaxy Coin</b><br/>
       <sub>O'z Blockchain va Kripto</sub><br/><br/>
       <img src="https://img.shields.io/badge/Solidity-000?style=flat-square&logo=solidity&logoColor=00ff41"/>
       <img src="https://img.shields.io/badge/Web3-000?style=flat-square&logo=web3dotjs&logoColor=00ff41"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-39ff14?style=for-the-badge&labelColor=000"/>
+      <img src="https://img.shields.io/badge/STATUS-IN__PROGRESS-39ff14?style=for-the-badge&labelColor=000"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="250">
       <img src="https://img.icons8.com/3d-fluency/108/bot.png" width="108" alt="Gamerhack Bot"/><br/>
-      <b style="font-size: 16px;">🎮 Gamerhack Bot</b><br/>
+      <b>🎮 Gamerhack Bot</b><br/>
       <sub>Telegram bot - Aiogram</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00ff41"/>
-      <img src="https://img.shields.io/badge/Telegram-000?style=flat-square&logo=telegram&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Aiogram-000?style=flat-square&logo=telegram&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=00ff41"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=for-the-badge&labelColor=000"/>
     </td>
     <td align="center" width="250">
       <img src="https://img.icons8.com/3d-fluency/108/car.png" width="108" alt="3D Car Game"/><br/>
-      <b style="font-size: 16px;">🚗 Unity + Blender 3D Car Game</b><br/>
+      <b>🚗 Unity + Blender 3D Car Game</b><br/>
       <sub>Realistik 3D o'yin</sub><br/><br/>
       <img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity&logoColor=00ff41"/>
       <img src="https://img.shields.io/badge/Blender-000?style=flat-square&logo=blender&logoColor=00ff41"/>
@@ -119,39 +117,39 @@
 
 <div align="center">
 
-### 💻 Dasturlash tillari
+**💻 Dasturlash tillari**
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)
 ![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=00ff41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00ff41)
 
-### 🤖 Frameworks & Libraries
+**🤖 Frameworks & Libraries**
 
 ![Aiogram](https://img.shields.io/badge/Aiogram-000000?style=for-the-badge&logo=telegram&logoColor=00ff41)
 ![Telebot](https://img.shields.io/badge/Telebot-000000?style=for-the-badge&logo=telegram&logoColor=39ff14)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00ff41)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00ff41)
 
-### ⛓️ Blockchain & Web3
+**⛓️ Blockchain & Web3**
 
 ![Blockchain](https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=bitcoin&logoColor=00ff41)
 ![Web3](https://img.shields.io/badge/Web3.py-000000?style=for-the-badge&logo=web3dotjs&logoColor=00ff41)
 ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-000000?style=for-the-badge&logo=ethereum&logoColor=00ff41)
 ![Crypto Trading](https://img.shields.io/badge/Trading-000000?style=for-the-badge&logo=bitcoin&logoColor=39ff14)
 
-### 🎮 Game Development
+**🎮 Game Development**
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=00ff41)
 ![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=00ff41)
 
-### 📱 Social Media Marketing
+**📱 Social Media Marketing**
 
 ![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff41)
 ![YouTube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00ff41)
 ![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff41)
 
-### 🛠️ Tools
+**🛠️ Tools**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00ff41)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
@@ -179,7 +177,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamerhackuz&theme=github_dark&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gamerhackuz&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gamerhackuz&theme=github_dark"/>
+</div>
+<div align="center">
+  <img width="73%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamerhackuz&theme=github_dark"/>
 </div>
 
 ---
@@ -190,53 +192,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gamerhackuz&bg_color=000000&color=00ff41&line=00ff41&point=39ff14&area=true&area_color=003300&hide_border=true&radius=10&custom_title=GAMER%20HACK%20-%20Contribution%20Graph"/>
-</div>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&width=800&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+LOYIHA+PROGRESS+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-```python
-# GAMER HACK - Loyihalar Progress Dashboard
-
-projects = {
-    "🤖 Machine Learning Creator": {
-        "completion": "████████████████░░░░  75%",
-        "status": "ACTIVE",
-        "tech_stack": ["Python", "TensorFlow", "PyTorch"],
-        "next_milestone": "Dataset kengaytirish"
-    },
-    "🌌 Neural Linker Galaxy Coin": {
-        "completion": "██████████████████░░  90%",
-        "status": "IN PROGRESS", 
-        "tech_stack": ["Solidity", "Web3", "Smart Contracts"],
-        "next_milestone": "Testnet launch"
-    },
-    "🎮 Gamerhack Bot": {
-        "completion": "████████████████████  95%",
-        "status": "ACTIVE",
-        "tech_stack": ["Python", "Aiogram", "PostgreSQL"],
-        "next_milestone": "Yangi feature qo'shish"
-    },
-    "🚗 Unity 3D Car Game": {
-        "completion": "████████████░░░░░░░░  60%",
-        "status": "IN DEVELOPMENT",
-        "tech_stack": ["Unity", "C#", "Blender"],
-        "next_milestone": "Physics optimization"
-    }
-}
-
-print("Total Projects: 4")
-print("Active: 2 | In Progress: 2")
-print("Average Completion: 80%")
-```
-
 </div>
 
 ---
@@ -256,7 +211,7 @@ print("Average Completion: 80%")
       <sub>O'z kripto-valyutam<br/>Neural Linker Galaxy</sub><br/><br/>
       <img src="https://img.shields.io/badge/90%25-000?style=flat-square&labelColor=000&color=00ff41"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/IN_PROGRESS-000?style=for-the-badge&labelColor=000&color=00ff41"/>
+      <img src="https://img.shields.io/badge/IN__PROGRESS-000?style=for-the-badge&labelColor=000&color=00ff41"/>
     </td>
     <td align="center" width="220">
       <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/><br/><br/>
@@ -285,7 +240,7 @@ print("Average Completion: 80%")
       <img src="https://img.shields.io/badge/ACTIVE-000?style=for-the-badge&labelColor=000&color=39ff14"/>
     </td>
     <td align="center" width="220">
-      <img src="https://skillicons.dev/icons?i=bitcoin&theme=dark" width="48"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/><br/><br/>
       <b>TRADING BOT</b><br/><br/>
       <sub>Avtomatik savdo tizimi<br/>AI bilan tahlil</sub><br/><br/>
       <img src="https://img.shields.io/badge/40%25-000?style=flat-square&labelColor=000&color=00ff41"/>
@@ -333,14 +288,7 @@ print("Average Completion: 80%")
 <br/>
 
 <div align="center">
-
-| Platform | Followers | Content Type |
-|----------|-----------|--------------|
-| 📸 Instagram | 5K+ | SMM & Marketing |
-| 🎥 YouTube | 2K+ | Tech Tutorials |
-| 💬 Telegram | 3K+ | Bot Updates |
-| 💻 GitHub | 100+ | Open Source |
-
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%F0%9F%93%B8+Instagram+++%3A+5K%2B+followers++++%7C+SMM+%26+Marketing;%F0%9F%8E%A5+YouTube++++%3A+2K%2B+subscribers+%7C+Tech+Tutorials;%F0%9F%92%AC+Telegram++++%3A+3K%2B+members++++%7C+Bot+Updates;%F0%9F%92%BB+GitHub++++++%3A+100%2B+followers++%7C+Open+Source"/>
 </div>
 
 ---
@@ -363,7 +311,7 @@ print("Average Completion: 80%")
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gamerhackuz/gamerhackuz/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gamerhackuz/gamerhackuz/output/github-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/gamerhackuz/gamerhackuz/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/gamerhackuz/gamerhackuz/output/github-snake-dark.svg"/>
   </picture>
 </div>
 
@@ -376,16 +324,7 @@ print("Average Completion: 80%")
 <br/>
 
 <div align="center">
-
-| 🏆 Yutuq | 📅 Sana | 📝 Tavsif |
-|---------|---------|-----------|
-| 🥇 1-o'rin IT Olimpiada | 2024 | Muhammad Al-Xorazimiy maktabi |
-| 🎖️ Eng yaxshi bot | 2024 | Telegram Bot Competition |
-| 💎 1000+ Users | 2024 | Gamerhack Bot foydalanuvchilari |
-| 🚀 Blockchain Launch | 2024 (Soon) | Neural Linker Galaxy Coin |
-| 📱 5K+ Followers | 2024 | Instagram SMM |
-| 🎓 ML Certificate | 2024 | Online Machine Learning kursi |
-
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1&pause=999999&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=200&lines=%F0%9F%A5%87+1-o%27rin+IT+Olimpiada+++%7C+2024+%7C+Muhammad+Al-Xorazimiy+maktabi;%F0%9F%8E%96%EF%B8%8F+Eng+yaxshi+bot+++++++%7C+2024+%7C+Telegram+Bot+Competition;%F0%9F%92%8E+1000%2B+Users++++++++++%7C+2024+%7C+Gamerhack+Bot+milestone;%F0%9F%9A%80+Blockchain+Launch++++%7C+2025+%7C+Neural+Linker+Galaxy+Coin;%F0%9F%93%B1+5K%2B+Followers++++++++%7C+2024+%7C+Instagram+SMM;%F0%9F%8E%93+ML+Certificate+++++++%7C+2024+%7C+Online+Neural+Networks+kursi"/>
 </div>
 
 ---
@@ -422,16 +361,16 @@ Total haftalik: 53 soat 💻
 
 <div align="center">
 
-```diff
-+ ✅ 10K+ GitHub Stars to'plash
-+ ✅ Neural Linker Galaxy Coin launch qilish
-+ ✅ YouTube 10K subscribers
-+ ✅ Machine Learning kursini tugatish
-+ ✅ Unity 3D o'yinni chiqarish
-+ ⏳ Trading bot bilan $1000 daromad
-+ ⏳ SMM orqali 20K+ followers
-+ 🎯 O'z startapimni boshlash
-+ 🎯 Xalqaro dasturlash musobaqasida qatnashish
+```text
+✅  10K+ GitHub Stars to'plash
+✅  Neural Linker Galaxy Coin launch qilish
+✅  YouTube 10K subscribers
+✅  Machine Learning kursini tugatish
+✅  Unity 3D o'yinni chiqarish
+⏳  Trading bot bilan $1000 daromad
+⏳  SMM orqali 20K+ followers
+🎯  O'z startapimni boshlash
+🎯  Xalqaro dasturlash musobaqasida qatnashish
 ```
 
 </div>
@@ -440,15 +379,15 @@ Total haftalik: 53 soat 💻
 
 <div align="center">
 
-```
+```text
 ╔════════════════════════════════════════════════════════════════════╗
 ║                                                                    ║
-║   "13 yoshda kod yozish emas — kelajak yaratish!"                ║
+║   "13 yoshda kod yozish emas — kelajak yaratish!"                  ║
 ║                                                                    ║
-║   "Har bir loyiha — yangi imkoniyat,                             ║
-║    har bir kod — kelajakka qadam!"                               ║
+║   "Har bir loyiha — yangi imkoniyat,                               ║
+║    har bir kod — kelajakka qadam!"                                 ║
 ║                                                                    ║
-║                                    — GAMER HACK 🎮                ║
+║                                    — GAMER HACK 🎮                 ║
 ║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
@@ -460,9 +399,9 @@ Total haftalik: 53 soat 💻
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=150&section=footer&animation=fadeIn"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%F0%9F%8C%9F+Loyihalarim+yoqsa+star+qo'yishni+unutmang!;%3E+GAMER+HACK+%7C+Building+the+future...;%3E+13+yosh+%7C+Blockchain+%2B+AI+%2B+Game+Dev;%3E+O'zbekistondan+dunyo+bozorlariga!;%3E+system.shutdown();+see+you+next+commit_%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%F0%9F%8C%9F+Loyihalarim+yoqsa+star+qo%27yishni+unutmang!;%3E+GAMER+HACK+%7C+Building+the+future...;%3E+13+yosh+%7C+Blockchain+%2B+AI+%2B+Game+Dev;%3E+O%27zbekistondan+dunyo+bozorlariga!;%3E+system.shutdown()%3B+see+you+next+commit+%F0%9F%9A%80"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gamerhackuz&label=Profile+Ko'rildi&color=00ff41&style=flat-square&labelColor=000000"/>
+  <img src="https://komarev.com/ghpvc/?username=gamerhackuz&label=Profile+Ko%27rildi&color=00ff41&style=flat-square&labelColor=000000"/>
 </div>
